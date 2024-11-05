@@ -24,7 +24,8 @@ If you have any question please contact me at [zhiyang3@andrew.cmu.edu](zhiyang3
 ## Portfolio  
 This section is about my future work in this course.
 - **Assignment 1: Assignment1**  
-  _Overview_: Overview1.
+  _Overview_: I used
+  _AssignmentLink_: [Assignment1]()
 
 - **Assignment 2: Assignment2**  
   _Overview_: Overview2.
