@@ -1,4 +1,5 @@
-# Assignment1
+# Assignment1  
+## Part Two: Working With Tableau
 <div class='tableauPlaceholder' id='viz1730778677380' style='position: relative'>
     <noscript>
         <a href='#'>
@@ -21,6 +22,13 @@
         <param name='language' value='en-US' />
         <param name='filter' value='publish=yes' />
     </object>
-</div>
+</div>  
+
+## Part Three: Create My Own Data Visualization
+
+
+
+
+
 
 [Take me back to portfolio](/README.md)
