@@ -24,7 +24,7 @@ If you have any question please contact me at [zhiyang3@andrew.cmu.edu](zhiyang3
 ## Portfolio  
 This section is about my future work in this course.  
 - **Assignment 1: Assignment1**  
-  _Overview_: This is a image downloaded from [OECD](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2019)  
+  _Overview_: This is an image downloaded from [OECD](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2019)  
   _AssignmentLink_: [Assignment1](/Assignment1.md)  
   _Government Debt 2019 Image_  
     
