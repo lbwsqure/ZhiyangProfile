@@ -33,7 +33,7 @@ This section is about my future work in this course.
 
 - **Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)**  
   - _Overview_: This homework involves selecting a data visualization to critique and redesign using Tableau, following a structured process that includes critique.  
-  - _AssignmentLink_: [Assignment3&4](/Assignment3&4.md)
+  - _AssignmentLink_(Feedback I receive): [Assignment3&4](/Assignment3&4.md)
        
   - _My Visualization Link_: [Progression of Large Language Models](/LLM.md)
   - _Original Visualization Link_: [Major Large Language Models (LLMs)
