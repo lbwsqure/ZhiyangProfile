@@ -42,3 +42,4 @@ These are the question I asked and their response.
 - **How to Avoid Overlap**: In order to avoid overlap, I applied few filters and ensure my audience and zoom in, play with this visualization, if they want a overview, they can drag the filter to a border range, if they want a more specific, detailed version, they can zoom in.
 - **Clear context**: I added serveral subtitles and tag on the y axis in order to provide more context to my data visualization.
 
+[Back to README.md](README.md)
