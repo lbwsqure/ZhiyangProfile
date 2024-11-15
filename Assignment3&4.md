@@ -41,5 +41,6 @@ These are the question I asked and their response.
 ### Key Takeaways from Feedback
 - **How to Avoid Overlap**: In order to avoid overlap, I applied few filters and ensure my audience and zoom in, play with this visualization, if they want a overview, they can drag the filter to a border range, if they want a more specific, detailed version, they can zoom in.
 - **Clear context**: I added serveral subtitles and tag on the y axis in order to provide more context to my data visualization.
+- **Less Information is better**: Through the conversation, I realized what professor said, sometimes fewer information is better, considering this graph, which is about LLM, there are so many LLMs and when putting these tag together, it produces a mess, therefore, I only chose 5 companys to make my visualization looks more "CLEAN".
 
 [Back to README.md](README.md)
