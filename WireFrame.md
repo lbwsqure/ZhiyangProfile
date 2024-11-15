@@ -1,1 +1,3 @@
-<img src="WireFrame.jpg" alt="Description" width="200"/>  
+# WireFrame
+This is a draft version of my visualization
+<img src="WireFrame.png" alt="Description" width="300"/>  
