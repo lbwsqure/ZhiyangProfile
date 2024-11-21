@@ -41,5 +41,5 @@ ranked by capabilities, sized by billion parameters used for training](https://i
  
 ## Final Project
 - _Overview_: Draft version and summary.  
-- **Part1**: [FinalProject Part1](/FinalProjectPart1.md)
+- **Part1**: [FinalProject Part1](/FinalProjectPaart1.md)
 
