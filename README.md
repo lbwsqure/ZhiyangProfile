@@ -38,4 +38,8 @@ This section is about my future work in this course.
   - _Original Visualization Link_: [Major Large Language Models (LLMs)  
 ranked by capabilities, sized by billion parameters used for training](https://informationisbeautiful.net/visualizations/the-rise-of-generative-ai-large-language-models-llms-like-chatgpt/)
   - **My Summary**: [Link to My Summary](/Assignment3&4Summary.md)
+ 
+## Final Project
+- _Overview_: Draft version and summary.  
+- **Part1**: [FinalProject Part1](/FinalProjectPart1.md)
 
