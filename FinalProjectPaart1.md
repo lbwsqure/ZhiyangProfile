@@ -22,10 +22,11 @@ The data for this project is sourced from the [GBIF API](https://www.gbif.org/de
 - **Walleye (Sander vitreus)**
 - **Catfish (Ictalurus punctatus)**
 
-The dataset includes geospatial coordinates (latitude and longitude), time of observation (year and month), and additional metadata such as the country of the record, the dataset source, and the basis of the record (e.g., observation, specimen).
+The dataset includes geospatial coordinates (latitude and longitude), time of observation (year and month).
+ - **I will try add some temperature data in the future.**
 
 My dataset is here:  
-
+[Download Dataset](./fishmonthly.csv)  
 
 Change parameters down here you can create your own dataset! 
 ```python
