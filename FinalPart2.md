@@ -2,15 +2,14 @@
 Using the sketches developed last week, I refined the story outline visually. The wireframes include:
 
 - A **map visualization** showing fish distribution in the U.S., categorized by species.
-- A **step-by-step infographic** explaining how to start fishing taking Walleye as an example.
-- Draft data visualizations such as:
-  - A bar chart showing fishing participation by state.
-  - Pie charts highlighting demographic data on fishing.
-  - Icon-based visuals for fishing tools and gear.
+- Detailed visualization about:
+  - **The most effective baits** for different fish species.
+  - **Fish behavior based on weather conditions**, including how weather impacts bait choice and fish activity.
+  - **Geographical fish distribution**, with a focus on seasonal and regional trends.
+  - **Best times to catch fish**, highlighting time of day, season, and moon phases.
 
-These wireframes are designed to visually communicate key aspects of the story and guide the user through both the educational and actionable elements.
+These wireframes are designed to help anglers optimize their fishing experience with data-driven insights.
 
----
 
 # User research 
 
@@ -31,74 +30,58 @@ To ensure diverse feedback, I selected:
 
 ### Goals:
 1. Gauge audience knowledge about U.S. fish distribution.
-2. Assess the clarity and relevance of the visualizations.
-3. Understand what information is most useful for beginners.
-4. Identify barriers to starting fishing.
-5. Collect suggestions for improving the project.
+2. Understand which baits are most effective for walleye.
+3. Assess understanding of **walleye distribution** and their behavior underwater.
+4. Identify improvements for the project.
 
-### Questions:
+### Interview Script
 
 | Goal                             | Questions to Ask                                                                       |
 |----------------------------------|----------------------------------------------------------------------------------------|
-| Gauge current knowledge          | "What do you know about fish species and their distribution across the U.S.?"         |
-| Assess clarity                   | "Does this visualization of fish distribution make sense to you? What could be clearer?"|
-| Evaluate relevance               | "What information do you think is most important when starting fishing?"              |
-| Measure engagement               | "What do you find most engaging or interesting in the storyboards?"                   |
-| Identify barriers to entry       | "What challenges do you anticipate when starting fishing?"                            |
-| Collect improvement suggestions  | "Is there anything you would change or add to improve this project?"                  |
+| Gauge audience knowledge          | "What do you know about the distribution of fish species across the U.S.?"           |
+| Understand bait effectiveness     | "Have you used or heard about specific baits that are effective for certain fish species? Which ones?" |
+| Assess understanding of walleye   | "Looking at this map, do you find the information about walleye distribution clear and useful? Why or why not?" |
+| Identify project improvements     | "What would you change or add to improve this project, especially regarding the data visualizations or fishing tips?" |
 
 ---
 
-## Interview findings
+### Interview Findings
 
-### Summary of Findings:
-Below is a table summarizing the feedback from my mom and my technical friend:
+#### Participant 1: Mom
+1. **Knowledge about fish distribution:**
+   - "I don't know much, but I’ve heard that trout and bass are common in lakes. I didn’t realize different fish are found in specific regions."
+   
+2. **Understanding bait effectiveness:**
+   - "I’ve only heard that worms work for most fish, but I don’t know much about other baits. Having a data analysis of baits would be super helpful for beginners like me."
 
-| Questions               | Interview 1 (Mom: Beginner angler)          | Interview 2 (Friend: Technical background)       |
-|-------------------------|----------------------------------------------|-------------------------------------------------|
-| Knowledge of fish       | “I don’t know much, maybe bass or trout?”    | “I know about species like salmon and bass.”   |
-| Visualization clarity   | “The map is pretty but needs clearer labels.”| “The map works but could use hover-over details for depth.” |
-| Useful information      | “The checklist is a good idea for beginners.”| “Show specific tools for each fish species.”   |
-| Engagement              | “I like the visual steps—it’s simple to follow.” | “The icons for gear are useful and stand out.” |
-| Challenges              | “I wouldn’t know where to buy equipment.”    | “Getting licenses might be confusing at first.”|
-| Improvement suggestions | “Add pictures of fish to help beginners.”    | “Incorporate interactive elements like filters.”|
+3. **Walleye distribution clarity:**
+   - "I didn’t know what a walleye was until now! The map is interesting, but it would be great to have more information about where to find them and what depth they live at."
 
----
-
-## Identified changes for Part III
-
-### Planned changes based on feedback:
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Map needs clearer details                | Add hover-over labels for fish species and distribution details.                |
-| Checklist for beginners is helpful       | Provide a downloadable beginner's checklist with actionable steps.              |
-| More visuals of fish and gear            | Include photos and icons for fish species and beginner-friendly gear.           |
-| Interactive features are desirable       | Explore adding interactivity, such as filtering fish species by region.         |
-| Licensing information needs clarity      | Create a simple infographic showing how to obtain fishing licenses by state.    |
+4. **Suggestions for improvement:**
+   - "Add pictures of the fish alongside the map. Beginners like me would find it easier to understand with visuals. Also, it would be good to suggest the best time of day to catch them."
 
 ---
 
-# Moodboards / personas
+#### Participant 2: Friend
+1. **Knowledge about fish distribution:**
+   - "I know salmon are mostly found in the Pacific Northwest and walleye are popular in the Midwest, but I’d love to see this data tied to seasonal migrations or population density."
 
-### Moodboards
-The moodboard includes:
-- **Color palette**: Blues and greens representing water and nature.
-- **Textures**: Minimalist, clean design with water ripple patterns.
-- **Visual elements**: Illustrations of fish, gear, and natural landscapes.
+2. **Understanding bait effectiveness:**
+   - "Crankbaits and spinnerbaits are great for bass, and minnows work well for walleye. It’d be useful if the map highlighted bait recommendations for each fish species."
 
-### Personas
-1. **Mom (Beginner Angler):** Represents individuals with little knowledge about fishing, needing clear, step-by-step guidance.
-2. **Technical Friend:** Represents users with a data-oriented mindset, focusing on clarity, interactivity, and deeper insights into visualizations.
+3. **Walleye distribution clarity:**
+   - "The map is clear, but I think it could benefit from showing depth information. Walleye behavior changes with water temperature and time of day, so adding those insights would make it more actionable."
 
----
-
-# Final Thoughts
-
-The feedback from my mom and technical friend provided complementary insights:
-1. **Beginner-friendly adjustments:** Simplify and enhance the educational aspects for non-technical users (e.g., adding photos and steps).
-2. **Technical improvements:** Add interactivity and detailed data layers to cater to more advanced audiences.
-
-Next week, I will focus on implementing these changes to ensure the project is accessible, engaging, and informative for both target groups.
+4. **Suggestions for improvement:**
+   - "Consider adding interactivity, like filtering the map by season or bait type. A tooltip with more details on fish behavior, such as their preferred water depth or feeding times, would also enhance the user experience."
 
 ---
+
+### Insights from Interviews
+
+The interviews highlight a few key areas to improve:
+1. **Beginner accessibility:** Visual aids like pictures of fish and simplified bait recommendations are needed for clarity.
+2. **Technical depth:** Advanced users would appreciate more granular data, such as fish depth preferences and seasonal patterns.
+3. **Interactivity:** Adding filter options for bait, time of year, and fish behavior would engage both novice and experienced users.
+4. **Some advice are useful, some are not** As the content creator myself, I have to filter useful feedback, after all, this presention is not tailored for only one person, I need to make my story more "generic"
+
