@@ -7,6 +7,8 @@ Using the sketches developed last week, I refined the story outline visually. Th
   - **Fish behavior based on weather conditions**, including how weather impacts bait choice and fish activity.
   - **Geographical fish distribution**, with a focus on seasonal and regional trends.
   - **Best times to catch fish**, highlighting time of day, season, and moon phases.
+ 
+This is the link to my shorthand page: [https://preview.shorthand.com/OBOUmkTFhGY8A7yq](Start your Fishing Journey In the U.S.)
 
 These wireframes are designed to help anglers optimize their fishing experience with data-driven insights.
 
