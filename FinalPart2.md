@@ -47,7 +47,7 @@ To ensure diverse feedback, I selected:
 
 ### Interview Findings
 
-#### Participant 1: Mom
+#### Participant 1: Still my relative.
 1. **Knowledge about fish distribution:**
    - "I don't know much, but I’ve heard that trout and bass are common in lakes. I didn’t realize different fish are found in specific regions."
    
@@ -62,12 +62,12 @@ To ensure diverse feedback, I selected:
 
 ---
 
-#### Participant 2: Friend
+#### Participant 2: Friend in CMU
 1. **Knowledge about fish distribution:**
    - "I know salmon are mostly found in the Pacific Northwest and walleye are popular in the Midwest, but I’d love to see this data tied to seasonal migrations or population density."
 
 2. **Understanding bait effectiveness:**
-   - "Crankbaits and spinnerbaits are great for bass, and minnows work well for walleye. It’d be useful if the map highlighted bait recommendations for each fish species."
+   - "Minnows work well for walleye. It’d be useful if the map highlighted bait recommendations for each fish species."
 
 3. **Walleye distribution clarity:**
    - "The map is clear, but I think it could benefit from showing depth information. Walleye behavior changes with water temperature and time of day, so adding those insights would make it more actionable."
@@ -83,5 +83,5 @@ The interviews highlight a few key areas to improve:
 1. **Beginner accessibility:** Visual aids like pictures of fish and simplified bait recommendations are needed for clarity.
 2. **Technical depth:** Advanced users would appreciate more granular data, such as fish depth preferences and seasonal patterns.
 3. **Interactivity:** Adding filter options for bait, time of year, and fish behavior would engage both novice and experienced users.
-4. **Some advice are useful, some are not** As the content creator myself, I have to filter useful feedback, after all, this presention is not tailored for only one person, I need to make my story more "generic"
+4. **Some advice are useful, some are not** As the content creator myself, I have to filter useful feedback, after all, this presention is not tailored for only one person, I need to make my story more "generic", also some advice have really good insight but technically it is not achieveable.
 
