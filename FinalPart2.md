@@ -2,7 +2,7 @@
 Using the sketches developed last week, I refined the story outline visually. The wireframes include:
 
 - A **map visualization** showing fish distribution in the U.S., categorized by species.
-- A **step-by-step infographic** explaining how to start fishing, including obtaining licenses, selecting equipment, and finding fishing spots.
+- A **step-by-step infographic** explaining how to start fishing taking Walleye as an example.
 - Draft data visualizations such as:
   - A bar chart showing fishing participation by state.
   - Pie charts highlighting demographic data on fishing.
@@ -22,7 +22,7 @@ The target audience for this project includes:
 
 ### Approach to identifying participants:
 To ensure diverse feedback, I selected:
-- **My mom** as a beginner angler and casual learner.
+- **My mom** A casual learner.
 - **My friend** with a technical background who can provide constructive feedback on data visualizations and user interface clarity.
 
 ---
