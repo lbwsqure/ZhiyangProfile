@@ -6,7 +6,7 @@ Using the sketches developed last week, I refined the story outline visually. Th
   - **The most effective baits** for different fish species.
   - **Fish behavior based on weather conditions**, including how weather impacts bait choice and fish activity.
   - **Geographical fish distribution**, with a focus on seasonal and regional trends.
-  - **Best times to catch fish**, highlighting time of day, season, and moon phases.
+  - **Best times to catch fish**, highlighting time of day, season.
  
 This is the link to my shorthand page: [https://preview.shorthand.com/OBOUmkTFhGY8A7yq](Start your Fishing Journey In the U.S.)
 
@@ -23,18 +23,12 @@ The target audience for this project includes:
 
 ### Approach to identifying participants:
 To ensure diverse feedback, I selected:
-- **My mom** A casual learner.
+- **My relative** A casual learner.
 - **My friend** with a technical background who can provide constructive feedback on data visualizations and user interface clarity.
-
+  also he fishes with me a lot.
+- **A student (early 20s)** who has recently started fishing as a hobby.   
 ---
 
-## Interview script
-
-### Goals:
-1. Gauge audience knowledge about U.S. fish distribution.
-2. Understand which baits are most effective for walleye.
-3. Assess understanding of **walleye distribution** and their behavior underwater.
-4. Identify improvements for the project.
 
 ### Interview Script
 
@@ -77,13 +71,26 @@ To ensure diverse feedback, I selected:
 4. **Suggestions for improvement:**
    - "Consider adding interactivity, like filtering the map by season or bait type. A tooltip with more details on fish behavior, such as their preferred water depth or feeding times, would also enhance the user experience."
 
+#### Participant 3:
+1. **Knowledge about fish distribution:**  
+"I know a little about common fish like bass and catfish, but I wasn’t aware that fish species vary so much by region or season. This information is really new to me."  
+2. **Understanding bait effectiveness:**  
+"I usually use worms or basic lures because they’re easy to find, but I’d like to know what baits work best for specific fish. That would save me a lot of trial and error."  
+3. **Walleye distribution clarity:**  
+"The map is helpful, but I’d like to see more details about where and when walleye are most active. Maybe something about how the weather or time of year influences their behavior."  
+4. **Suggestions for improvement:**
+"I want to know temperature information, also, some in-depth knowledge about "when" to fish.
+
 ---
 
 ### Insights from Interviews
 
 The interviews highlight a few key areas to improve:
 1. **Beginner accessibility:** Visual aids like pictures of fish and simplified bait recommendations are needed for clarity.
-2. **Technical depth:** Advanced users would appreciate more granular data, such as fish depth preferences and seasonal patterns.
-3. **Interactivity:** Adding filter options for bait, time of year, and fish behavior would engage both novice and experienced users.
-4. **Some advice are useful, some are not** As the content creator myself, I have to filter useful feedback, after all, this presention is not tailored for only one person, I need to make my story more "generic", also some advice have really good insight but technically it is not achieveable.
+2. **Technical depth:** Advanced users would appreciate more granular data, such as seasonal patterns.
+3. **Some advice are useful, some are not** As the content creator myself, I have to filter useful feedback, after all, this presention is not tailored for only one person, I need to make my story more "generic", also some advice have really good insight but technically it is not achieveable.
+
+### Summary
+So what I did is adding more visualizations, for example, top bait recommandation, bite time analysis and what's the relation between bitetime and water temperature. Adding some history information which hopefully can attract my audiences attention. 
+Also when doing presentation like this, I think it is important to link data to actionable insights, such as pairing specific bait with weather conditions and providing detailed fishing strategies based on geographic and seasonal trends.
 
